@@ -1,0 +1,9 @@
+Hello, this is an example plaintext.
+
+This sentence was prefixed with double newline.
+While this one only has one.
+
+This sentence will be deleted.
+This is just a sentence.
+This is an original sentence.
+This is just another sentence.

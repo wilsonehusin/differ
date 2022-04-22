@@ -1,0 +1,10 @@
+Hello, this is an example plaintext.
+
+This sentence was intentionally prefixed with double newline.
+While this one only has one.
+
+This is just a sentence.
+This is a modified sentence.
+This is just another sentence.
+
+This sentence did not exist.
